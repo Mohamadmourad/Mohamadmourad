@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamadmourad&show_icons=true&theme=radical&text_color=63fafd&bg_color=282a36&locale=en" alt="mohamadmourad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadmourad&theme=dark" alt="mohamadmourad" /></p>
+
