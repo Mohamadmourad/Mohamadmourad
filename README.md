@@ -1,26 +1,105 @@
-<img width="100%" alt="computerBanner" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
-<h1 align="center">Hi 👋, I'm Mohamad Mourad</h1>
-<h3 align="center">A passionate computer science student</h3>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
+<h3 align="center">
+  I'm Mohamad Mourad — Spring Boot Backend Engineer • Cloud & Systems
+</h3>
 
+---
 
-- 👨‍💻 All of my projects are available at [https://mohamadmourad.com/](https://mohamadmourad.com/)
+## 👨‍💻 About Me
 
-- 📫 How to reach me **mohamadmourad511@gmail.com**
+<img align="right" height="160" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" />
 
+- ☕ Backend-focused engineer specializing in **Spring Boot & Java ecosystems**
+- 🧩 Designing **scalable REST APIs, microservices, and distributed systems**
+- ⚙️ Strong experience with **databases, cloud infrastructure, and system design**
+- 🚀 Comfortable integrating frontend, DevOps, and automation when needed
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamad-mourad-44015a218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamad-mourad-44015a218" height="30" width="40" /></a>
-<a href="https://instagram.com/mourad511_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mourad511_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohamadmourad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamadmourad" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="32"/>
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="32"/>
+  </a>
+  <a href="https://www.youtube.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&style=for-the-badge" height="32"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="32"/>
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  </p>
+<br clear="both" />
 
+---
 
+## 🧠 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamadmourad&show_icons=true&theme=radical&text_color=63fafd&bg_color=282a36&locale=en" alt="mohamadmourad" /></p>
+### ⚙️ Backend & APIs
+<div>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,dotnet,deno" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45"/>
+</div>
 
+### 🌐 Frontend
+<div>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,storybook" height="45"/>
+</div>
 
+### 💻 Languages
+<div>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,rust,c,cpp,csharp,php,dart" height="45"/>
+</div>
+
+### 🗄️ Databases & Data
+<div>
+  <img src="https://skillicons.dev/icons?i=postgresql,redis,firebase" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+</div>
+
+### ☁️ Cloud & DevOps
+<div>
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github" height="45"/>
+</div>
+
+### 🤖 AI / Automation / Testing
+<div>
+  <img src="https://skillicons.dev/icons?i=pytorch,selenium,jest" height="45"/>
+</div>
+
+### 🧩 Systems & Embedded
+<div>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arduino,raspberrypi,androidstudio" height="45"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamadmourad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamadmourad&layout=compact&theme=dracula" height="150"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=mohamadmourad&theme=dracula&column=-1&row=1" height="120"/>
+</div>
+
+---
+
+## 🟡 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamadmourad/mohamadmourad/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamadmourad/mohamadmourad/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohamadmourad/mohamadmourad/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 🐍 Snake Eating My Contributions
+
+<img src="https://raw.githubusercontent.com/mohamadmourad/mohamadmourad/output/snake.svg" alt="Snake animation" />
+
+---
