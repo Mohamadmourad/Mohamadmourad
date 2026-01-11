@@ -16,16 +16,16 @@
 - 🚀 Comfortable integrating frontend, DevOps, and automation when needed
 
 <div align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamadmourad511/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="32"/>
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/mourad511_/#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="32"/>
   </a>
   <a href="https://www.youtube.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&style=for-the-badge" height="32"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:mohamadmourad511@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="32"/>
   </a>
 </div>
