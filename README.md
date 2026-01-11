@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 <h3 align="center">
-  I'm Mohamad Mourad — Spring Boot Backend Engineer • Cloud & Systems
+  I'm Mohamad Mourad - Spring Boot Backend Engineer • Cloud & Systems
 </h3>
 
 ---
@@ -78,13 +78,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamadmourad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamadmourad&layout=compact&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamadmourad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadmourad&layout=compact&theme=dracula&cache_seconds=1800" height="150"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=mohamadmourad&theme=dracula&column=-1&row=1" height="120"/>
-</div>
 
 ---
 
