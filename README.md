@@ -49,12 +49,12 @@
 
 ### 💻 Languages
 <div>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,go,rust,c,cpp,csharp,php,dart" height="45"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,c,cpp,csharp,php,dart" height="45"/>
 </div>
 
 ### 🗄️ Databases & Data
 <div>
-  <img src="https://skillicons.dev/icons?i=postgresql,redis,firebase" height="45"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,firebase" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
 </div>
 
