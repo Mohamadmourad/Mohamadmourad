@@ -70,5 +70,5 @@
 
 ### 🧩 Systems & Embedded
 <div>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arduino,raspberrypi,androidstudio" height="45"/>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arduino,raspberrypi,androidstudio,wasm" height="45"/>
 </div>
