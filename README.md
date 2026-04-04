@@ -49,7 +49,7 @@
 
 ### 💻 Languages
 <div>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,go,c,cpp,php,dart" height="45"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,c,cpp,php,dart,rust" height="45"/>
 </div>
 
 ### 🗄️ Databases & Data
